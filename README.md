@@ -22,20 +22,12 @@ If you're new or are interested in the steps and their purpose, then let's dive 
 First:
 
 ```bash
-git clone https://github.com/covalence-io/barebones-react-typescript-express.git YOUR_PROJECT_NAME
+git clone https://github.com/covalence-io/barebones-react-typescript-express.git
 ```
 
 &nbsp;
 
 Second:
-
-```bash
-cd YOUR_PROJECT_NAME
-```
-
-&nbsp;
-
-Third:
 
 ```bash
 npm install
@@ -45,7 +37,7 @@ npm install
 
 &nbsp;
 
-Fourth:
+Third:
 
 ```bash
 npm run dev
