@@ -1,0 +1,32 @@
+.form-container {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-direction: column;
+    margin-top: 16px;
+    max-width: 300;
+    width: 100%;
+}
+
+.dropdown {
+    width: 100%;
+}
+
+.logbook-container {
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+    margin: 10px 0;
+}
+
+.upload-container * p {
+    margin-bottom: 0,
+}
+
+.upload-container .header {
+    margin-bottom: 20px,
+}
+
+.upload-container .heading {
+    margin-bottom: 20px,
+}
